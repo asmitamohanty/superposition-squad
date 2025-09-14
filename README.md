@@ -1,3 +1,7 @@
+# Q3 Hackathon @ USC, September 2025
+
+---
+
 The following files are used to solve the Track 2: Quantum Optimization for Impact - Knapsack problem. 
 
 `minimization_experiments.ipynb` 
